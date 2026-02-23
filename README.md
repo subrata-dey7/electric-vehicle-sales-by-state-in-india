@@ -170,23 +170,55 @@ EV growth is driven primarily by personal mobility and last-mile transport.
 
 ### 6. Insights and Interpretation
 
+- EV adoption is rapid but uneven.
+- Growth is concentrated geographically.
+- Market is two-wheeler and three-wheeler driven.
+- Four-wheelers face barriers: cost, charging, accessibility.
+- Seasonal demand patterns are consistent.
 
+### 7. Recommendations 
 
+- **Prioritize infrastructure in top states:**
+  
+  Highest ROI and utilization
 
+- **Focus incentives on 2W & 3W EVs:**
 
+  95% of market demand
 
+- **Support commercial EV adoption:**
 
+  Faster electrification impact
 
+- **Plan capacity for year-end demand spikes:**
 
+  Better inventory and charging readiness
 
+### 8. Conclusion
 
+This project demonstrates how integrated Python, SQL, and Power BI analysis can provide clear, executive-level insights into India’s EV market. The findings highlight rapid growth, strong regional concentration, and dominant vehicle segments, offering actionable guidance for stakeholders shaping India’s electric mobility future.
 
+### 9. References
 
+- EV sales dataset.
+- Government mobility reports.
+- Power BI documentation.
+- Python & SQL references.
 
+- **Tools used:**
+    - 🧮 **Excel** - Data Cleaning, Pivot Tables
+    - 📊 **Power BI Desktop** - Main data visualization platform used for report creation.
+    - 🛢️ **Sql** - used for querying, aggregating, and managing structured data efficiently in relational databases.
+    - 📂 **Power Query** - Data transformation and cleaning layer for reshaping and preparing the data.
+    - 🧠 **DAX (Data Analysis Expressions)** - Used for calculated measures, dynamic visuals, and conditional logic.
+    - 📝 **Data Modeling** - Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+    - 📁 **File Format** - .pbix for development and .png for dashboard previews.
 
+### 10. 📜 License
 
+This project is open source and free to use for educational purposes.
 
-
+🎉🎉 Thank you for checking out the - “Electric Vehicle Sales by State in India” project !!!
 
 
 
